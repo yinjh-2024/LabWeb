@@ -43,10 +43,10 @@ collections:
 navigation:
   - title: Home
     link: /
-  - title: People
-    link: /#people
   - title: Research
     link: /research.html
+  - title: Peolple
+    link: /people.html
   - title: Publications
     link: /publications.html
   - title: Code
